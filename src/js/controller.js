@@ -143,7 +143,7 @@ const init= function(){
  recipeView.addHandlerAddBookmark(controlAddBookmark)
  addRecipeView.addHandlerUpload(controlAddrecipe)
 
- console.log('Welcome!')
+ console.log('Hi');
 
 }
 init()
